@@ -14,11 +14,6 @@ def get_article_by_index(json_file, index):
 
 
 
-
-
-
-
-
 def get_url_title(dict1, dict2):
     # Extract the keys of dict1
     keys = dict1.keys()
